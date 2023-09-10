@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Me chamo Leandro Gabriel, tenho 30 anos. Sou apaixonado em programação, buscando sempre melhorar e ampliar minhas habilidades.
+Me chamo Leandro Gabriel, apaixonado por tecnologia e programação, em constante busca pelo aprimoramento de minhas habilidades.
 
 ## Meus contatos
 
